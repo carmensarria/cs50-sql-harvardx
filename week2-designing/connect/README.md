@@ -17,6 +17,8 @@ The goal was to model users, schools, companies, and relationships between them 
 - schema.sql
 - test.sql
 
+A test.sql file was used to validate the schema with sample data and joins.
+
 ## Topics Practiced
 - Database design from real-world specifications
 - Entity relationships and normalization
