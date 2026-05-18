@@ -5,9 +5,9 @@ This week focused on database design and schema creation from real-world require
 
 ## Completed Problem Sets
 - ATL
+- Connect
 
 ## Pending Problem Sets
-- Connect
 - Donuts
 
 ## Topics Practiced
