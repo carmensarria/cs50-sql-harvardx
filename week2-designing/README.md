@@ -1,28 +1,31 @@
-# Week 2 – Designing  
+# Week 2 – Designing
+
 Exercises completed during Week 2 of CS50's Introduction to Databases with SQL.
 
-This week focused on database design and schema creation from real-world requirements.
-
 ## Completed Problem Sets
-- ATL
-- Connect
 
-## Pending Problem Sets
+- ATL
+- Happy to Connect
 - Donuts
 
 ## Topics Practiced
-- Database design from requirements
-- Schema creation from specifications
-- Entity relationships
+
+- Database schema design
+- Data normalization
 - Primary and foreign keys
-- Table normalization
-- Relational database design
-- Structuring real-world systems into databases
-- Understanding data modeling principles
+- Table relationships
+- Many-to-many relationships
+- Junction tables
+- Column and table constraints
+- Relational database modeling
+- CREATE TABLE statements
+- Database structuring with SQLite
 
 ## Skills Developed
-- Designing relational databases from real-world requirements
-- Translating system descriptions into SQL schemas
-- Creating structured and normalized database designs
-- Modeling relationships between entities using primary and foreign keys
-- Building database schemas for real-world systems
+
+- Designing relational databases from scratch
+- Modeling real-world systems with SQL
+- Implementing normalized schemas
+- Creating efficient table relationships
+- Applying database design best practices
+- Structuring scalable SQL databases
