@@ -6,7 +6,7 @@ This exercise is part of Week 0 of CS50's Introduction to Databases with SQL.
 
 Players focuses on analyzing structured baseball player data, including biographical information, physical attributes, and career history.
 
-## File included
+## Files included
 
 - players.sql
 
