@@ -8,7 +8,7 @@ DESE is an educational data analysis exercise that involves querying structured 
 
 The goal is to extract insights using SQL queries over relational data.
 
-## File included
+## Files included
 
 - dese.sql
 
