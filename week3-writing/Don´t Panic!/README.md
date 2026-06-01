@@ -8,7 +8,7 @@ Don't Panic! focuses on modifying existing records, understanding database trigg
 
 The objective is to alter a user's password, remove evidence of the real modification, and create misleading log entries while preserving database consistency.
 
-## File Included
+## Files Included
 
 * hack.sql
 
