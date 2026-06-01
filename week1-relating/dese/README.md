@@ -17,7 +17,15 @@ The goal is to extract insights using SQL queries over relational data.
 - SELECT statements
 - Filtering with WHERE
 - Aggregation functions (COUNT, AVG, etc.)
-- GROUP BY (if applicable)
+- GROUP BY
 - Sorting with ORDER BY
 - Data analysis on structured datasets
 - Working with relational data
+
+## Skills Developed
+
+- Analyzing educational datasets
+- Extracting statistical information
+- Working with relational data
+- Summarizing information using aggregates
+- Interpreting query results
