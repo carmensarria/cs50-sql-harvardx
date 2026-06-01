@@ -19,3 +19,11 @@ This exercise is part of Week 0 of CS50's Introduction to Databases with SQL.
 - Limiting results with LIMIT
 - Column aliasing with AS
 - Data analysis on artistic datasets
+
+## Skills Developed
+
+- Writing analytical SQL queries
+- Filtering and organizing data
+- Using aggregate functions
+- Exploring structured datasets
+- Interpreting query results
