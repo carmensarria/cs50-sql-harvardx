@@ -10,9 +10,17 @@ Cyberchase consists of multiple SQL queries contained in a single file, each sol
 
 - cyberchase.sql
 
-## Skills practiced
+## SQL Concepts Used
 
 - SELECT statements
 - WHERE filtering
+- ORDER BY
+- LIMIT
 - Data retrieval
-- Basic SQL query structure
+
+## Skills Developed
+
+- Writing basic SQL queries
+- Extracting information from datasets
+- Applying filtering conditions
+- Interpreting query results
