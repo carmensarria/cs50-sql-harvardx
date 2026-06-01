@@ -6,7 +6,7 @@ ATL focuses on designing a relational database for Hartsfield-Jackson Internatio
 
 The goal is to model passengers, airlines, flights, and check-ins using a structured SQL schema based on real-world requirements.
 
-## File included
+## Files included
 - schema.sql
 - test.sql
 
