@@ -12,6 +12,14 @@ The objective is to alter a user's password, remove evidence of the real modific
 
 * hack.sql
 
+## Approach
+
+To solve this exercise, I first inspected the database schema using SQLite's `.schema` command in order to understand the available tables, relationships, and triggers.
+
+The investigation revealed that updates to user accounts automatically generated audit records through database triggers. After identifying the relevant tables and stored password hashes, I modified the administrator account, removed the generated audit record, and inserted a fabricated log entry using a subquery to retrieve data dynamically from the database.
+
+This exercise emphasized the importance of understanding database schemas before modifying data and demonstrated how triggers can automatically record changes.
+
 ## SQL Concepts Used
 
 * UPDATE
