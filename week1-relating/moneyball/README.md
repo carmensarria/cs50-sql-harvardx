@@ -19,3 +19,11 @@ Moneyball is a data analysis exercise based on baseball statistics. The goal is 
 - Sorting with ORDER BY
 - Subqueries
 - Data analysis on sports datasets
+
+## Skills Developed
+
+- Combining data from multiple tables
+- Analyzing sports statistics
+- Using joins and subqueries
+- Working with aggregate calculations
+- Drawing insights from relational datasets
