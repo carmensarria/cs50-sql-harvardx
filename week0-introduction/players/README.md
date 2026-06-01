@@ -19,3 +19,11 @@ Players focuses on analyzing structured baseball player data, including biograph
 - Aggregation functions (COUNT, AVG)
 - Date filtering
 - Column aliasing with AS
+
+## Skills Developed
+
+- Querying structured sports datasets
+- Filtering records with multiple conditions
+- Handling missing values
+- Calculating summary statistics
+- Organizing query results
