@@ -1,5 +1,5 @@
 # Connect (LinkedIn-style Database Design):
-Exercise from Week 2 of CS50's Introduction to Databases with SQL.
+This exercise is part of Week 2 of CS50's Introduction to Databases with SQL.
 
 This project involved designing a relational database for a professional networking platform similar to LinkedIn.
 
