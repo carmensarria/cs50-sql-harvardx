@@ -20,3 +20,11 @@ The goal is to model passengers, airlines, flights, and check-ins using a struct
 - One-to-many relationships
 - Time-based data storage (DATETIME / NUMERIC)
 - Schema normalization principles
+
+## Skills Developed
+
+- Designing relational schemas
+- Applying normalization principles
+- Modeling airport operations
+- Creating relationships between entities
+- Defining constraints for data integrity
