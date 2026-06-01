@@ -6,7 +6,7 @@ This exercise is part of Week 0 of CS50's Introduction to Databases with SQL.
 
 Normals focuses on analyzing ocean temperature data across different latitudes, longitudes, and depths using SQL queries.
 
-## File included
+## Files included
 
 - normals.sql
 
