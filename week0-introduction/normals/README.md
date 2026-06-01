@@ -19,3 +19,11 @@ Normals focuses on analyzing ocean temperature data across different latitudes, 
 - Sorting with ORDER BY
 - Limiting results with LIMIT
 - Geographic data analysis using latitude and longitude
+
+## Skills Developed
+
+- Working with scientific datasets
+- Analyzing numerical data
+- Filtering geographic information
+- Using aggregate functions
+- Interpreting environmental measurements
