@@ -6,7 +6,7 @@ This exercise is part of Week 0 of CS50's Introduction to Databases with SQL.
 
 36 Views consists of multiple SQL queries focused on exploring structured data and extracting specific information from relational datasets.
 
-## File included
+## Files included
 
 - 36-views.sql
 
