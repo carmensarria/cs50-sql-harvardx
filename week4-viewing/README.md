@@ -3,7 +3,7 @@ Exercises completed during Week 4 of CS50's Introduction to Databases with SQL.
 
 ## Completed Problem Sets
 - Census Taker
-- The Private Eye (pending)
+- The Private Eye
 - Bed and Breakfast (pending)
 
 ## Topics Practiced
