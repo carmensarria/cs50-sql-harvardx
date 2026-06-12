@@ -11,19 +11,23 @@ Exercises completed during Week 4 of CS50's Introduction to Databases with SQL.
 ## Topics Practiced
 
 - SQL Views
-- Data abstraction using views
-- String manipulation (substr, LIKE)
-- Aggregation functions (COUNT, SUM, etc.)
+- CREATE VIEW
+- Data abstraction
+- Aggregate functions
+- GROUP BY
+- ORDER BY
 - JOIN operations
 - Common Table Expressions (CTEs)
-- Data filtering and transformation
-- Working with relational datasets
+- String functions
+- Data summarization
+- Relational data analysis
 
 ## Skills Developed
 
-- Creating and managing SQL views
-- Structuring queries for data analysis
-- Extracting information from text-based datasets
-- Combining multiple tables effectively
-- Writing reusable and modular SQL logic
-- Solving multi-step SQL problems using views
+- Creating reusable database views
+- Simplifying complex queries
+- Aggregating and summarizing data
+- Working with multi-table relationships
+- Extracting information from text data
+- Building analytical views from relational datasets
+- Organizing data for reporting and analysis
