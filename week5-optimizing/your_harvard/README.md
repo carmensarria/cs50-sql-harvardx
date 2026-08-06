@@ -1,4 +1,4 @@
-# Your Harvard
+# your.harvard
 
 This exercise is part of Week 5 of CS50's Introduction to Databases with SQL.
 
