@@ -40,7 +40,9 @@ final-project/
 This repository serves as:
 - a learning archive,
 - a practical SQL portfolio,
-- and proof of coursework completed during the program.
+- and a record of exercises completed during the program.
+
+The repository demonstrates hands-on experience with relational databases, SQL querying, database design, optimization techniques, and data modeling.
 
 ## Disclaimer
 These exercises were completed as part of HarvardX's CS50 coursework.
