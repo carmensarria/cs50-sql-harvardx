@@ -3,36 +3,24 @@
 Exercises completed during Week 5 of CS50's Introduction to Databases with SQL.
 
 ## Completed Problem Sets
-
 - In a Snap
 - your.harvard
 
 ## Topics Practiced
-
 - Database optimization
-- Query performance analysis
-- Database indexes
+- Indexes
 - CREATE INDEX
-- Searching with indexes
-- Primary key indexes
-- Covering indexes
-- Partial indexes
+- Query performance analysis
 - EXPLAIN QUERY PLAN
-- Query execution plans
-- Storage optimization
-- VACUUM
-- Transactions
-- Concurrency concepts
-- ACID properties
+- Covering indexes
+- Search optimization
+- Balancing storage and query speed
 - Database performance trade-offs
 
 ## Skills Developed
-
-- Writing efficient SQL queries
-- Understanding how SQLite executes queries
-- Analyzing query performance with EXPLAIN QUERY PLAN
-- Using indexes to improve database searches
-- Designing indexes based on query patterns
-- Balancing query speed and storage requirements
-- Optimizing relational databases for scalability
-- Understanding database concurrency and transaction behavior
+- Analyzing query execution plans
+- Identifying performance bottlenecks
+- Designing efficient indexes
+- Optimizing relational database queries
+- Understanding the trade-offs of indexing
+- Improving database performance while minimizing unnecessary overhead
