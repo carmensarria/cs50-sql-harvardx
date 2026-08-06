@@ -25,6 +25,19 @@ After creating the indexes, I reviewed the query plans again to verify that SQLi
 
 The final solution balances query optimization with storage efficiency by avoiding unnecessary indexes.
 
+## Optimization Decisions
+
+During the optimization process, I tested different indexes using `EXPLAIN QUERY PLAN`.
+
+An additional index on `courses(semester)` was considered for course searches. However, it was removed because existing indexes already provided sufficient performance improvements.
+
+Creating unnecessary indexes increases storage usage and can negatively impact write operations such as INSERT, UPDATE, and DELETE.
+
+The final solution prioritizes a balance between:
+- query performance
+- storage efficiency
+- index maintenance cost
+
 ## SQL Concepts Used
 
 - CREATE INDEX
