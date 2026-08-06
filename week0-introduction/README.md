@@ -11,7 +11,7 @@ Exercises completed during Week 0 of CS50's Introduction to Databases with SQL.
 
 ## Topics Practiced
 
-- Basic SQL syntax
+- SQL fundamentals
 - SELECT queries
 - WHERE conditions
 - ORDER BY
