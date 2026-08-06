@@ -35,6 +35,11 @@ final-project/
 - Views
 - Database design
 - Data optimization
+- Transactions and ACID properties
+- Triggers
+- Common Table Expressions (CTEs)
+- Query optimization with indexes
+- SQLite database management
 
 ## Purpose
 This repository serves as:
