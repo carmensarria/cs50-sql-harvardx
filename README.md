@@ -3,8 +3,8 @@ This repository contains exercises and projects completed during CS50's Introduc
 
 The course focuses on relational databases, SQL querying, database design, data normalization, joins, indexes, views and data modeling.
 ## About the Course
-- Institution: Harvard University / HarvardX
-- Platform: edX
+- Institution: Harvard University
+- Platform: edX / Harvard OpenCourseWare
 - Course: CS50's Introduction to Databases with SQL
 - Instructors: Carter Zenke and David J. Malan
 - Course Link: https://pll.harvard.edu/course/cs50s-introduction-databases-sql
@@ -31,15 +31,20 @@ final-project/
 - Aggregations
 - Normalization
 - Relationships
-- Indexes
-- Views
+- Primary and foreign keys
+- Database constraints
 - Database design
-- Data optimization
-- Transactions and ACID properties
+- INSERT, UPDATE, and DELETE
 - Triggers
+- Views
 - Common Table Expressions (CTEs)
-- Query optimization with indexes
+- Indexes
+- Query optimization
 - SQLite database management
+- MySQL
+- Database scalability
+- Connecting SQL with Python and Java
+- Relational database application development
 
 ## Purpose
 This repository serves as:
@@ -50,5 +55,6 @@ This repository serves as:
 The repository demonstrates hands-on experience with relational databases, SQL querying, database design, optimization techniques, and data modeling.
 
 ## Disclaimer
-These exercises were completed as part of HarvardX's CS50 coursework.
-Solutions are shared for educational and portfolio purposes only.
+This repository is a personal learning archive and portfolio documenting my progress through CS50's Introduction to Databases with SQL.
+The exercises are based on coursework provided by Harvard University's CS50 program. The repository contains my own implementations and notes created while completing the course.
+This repository is not affiliated with or endorsed by Harvard University, HarvardX, or CS50.
