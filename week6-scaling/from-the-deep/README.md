@@ -19,7 +19,7 @@ Each approach has different advantages and disadvantages depending on the type o
 
 ## File Included
 
-- `answers.md`
+- answers.md
 
 ## Concepts Practiced
 
