@@ -6,11 +6,8 @@ Exercises completed during Week 6 of CS50's Introduction to Databases with SQL.
 
 - Happy to Connect
 - From the Deep
-- Don't Panic! (Sentimental) with Python
-
-## Upcoming Problem Sets
-
-- Don't Panic! (Sentimental) with Java
+- Don't Panic! with Python
+- Don't Panic! with Java
 
 ## Topics Practiced
 
@@ -21,9 +18,16 @@ Exercises completed during Week 6 of CS50's Introduction to Databases with SQL.
 - Database constraints
 - Primary and foreign keys
 - Data types
+- Database partitioning
+- Distributed databases
+- Data distribution
+- Query performance
 - Connecting SQL with programming languages
 - Python and SQL
 - Java and SQL
+- JDBC
+- Prepared statements
+- Parameterized queries
 - Database access from applications
 
 ## Skills Developed
@@ -31,7 +35,12 @@ Exercises completed during Week 6 of CS50's Introduction to Databases with SQL.
 - Working with MySQL databases
 - Designing schemas for scalable relational databases
 - Applying database constraints
+- Understanding distributed database architectures
+- Comparing database partitioning strategies
+- Evaluating database performance and scalability
 - Connecting applications to relational databases
 - Using SQL from Python
 - Using SQL from Java
+- Using JDBC to connect Java applications to SQLite
+- Using prepared statements and parameterized queries
 - Understanding how databases interact with application code
