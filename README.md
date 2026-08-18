@@ -2,6 +2,7 @@
 This repository contains exercises and projects completed during CS50's Introduction to Databases with SQL by HarvardX.
 
 The course focuses on relational databases, SQL querying, database design, data normalization, joins, indexes, views and data modeling.
+
 ## About the Course
 - Institution: Harvard University
 - Platform: edX / Harvard OpenCourseWare
@@ -43,6 +44,11 @@ final-project/
 - SQLite database management
 - MySQL
 - Database scalability
+- Database partitioning
+- Distributed databases
+- JDBC
+- Prepared statements
+- Parameterized queries
 - Connecting SQL with Python and Java
 - Relational database application development
 
