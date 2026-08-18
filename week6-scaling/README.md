@@ -5,10 +5,10 @@ Exercises completed during Week 6 of CS50's Introduction to Databases with SQL.
 ## Completed Problem Sets
 
 - Happy to Connect
+- From the Deep
 
 ## Upcoming Problem Sets
 
-- From the Deep
 - Don't Panic! (Sentimental) with Python
 - Don't Panic! (Sentimental) with Java
 
