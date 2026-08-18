@@ -11,17 +11,17 @@ The goal was to design a normalized relational database capable of representing 
 
 The database contains the following tables:
 
-- `users` — stores user information and credentials.
-- `schools` — stores schools and universities.
-- `companies` — stores companies and their industries.
-- `connections` — represents mutual connections between users.
-- `education` — stores users' educational history.
-- `employment` — stores users' employment history.
+- users — stores user information and credentials.
+- schools — stores schools and universities.
+- companies — stores companies and their industries.
+- connections — represents mutual connections between users.
+- education — stores users' educational history.
+- employment — stores users' employment history.
 
 ## Files Included
 
-- `schema.sql` — MySQL database schema.
-- `test.sql` — sample data and queries used to test the schema and its constraints.
+- schema.sql — MySQL database schema.
+- test.sql — sample data and queries used to test the schema and its constraints.
 
 ## SQL Concepts Used
 
